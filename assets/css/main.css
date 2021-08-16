@@ -3745,7 +3745,7 @@ input, select, textarea {
 
 /* Small */
 
-	#navPanel, #titleBar {
+	#navPanel {
 		display: none;
 	}
 
